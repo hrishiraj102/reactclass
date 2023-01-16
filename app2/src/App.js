@@ -5,7 +5,7 @@ import Details from './Details';
 function App() {
   return (
     <div className="App">
-      <Details />
+      <Details div2="Prince" />
 
     </div>
   );
